@@ -1,6 +1,3 @@
-#!/data/data/com.termux/files/usr/bin
-
-#
 text_help() {
 	echo "
 Usage : nisync [option] [mode]
