@@ -1,2 +1,5 @@
-# nisync
-package &amp; repo nisync
+## Nisync-repo
+`branch : namerepo`
+
+## Install?
+`coming soon`
